@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    padding: 10px;
+    background-color: #f4f4f4;
+    margin: 0;
+    font-size: 24px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  #map {
+    height: 90vh; /* Map height below the header */
+    width: 100%; /* Full width */
+  }
+  
